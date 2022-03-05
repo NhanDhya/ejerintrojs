@@ -1,4 +1,4 @@
-/*const ejercicio1 = [56,8,45,12,10,3,77,100,96,36,5,22,20,31,47,2,50,61
+const ejercicio1 = [56,8,45,12,10,3,77,100,96,36,5,22,20,31,47,2,50,61
 
 ];
 
@@ -17,7 +17,7 @@ if(nPrimo(numero))
 console.log(`Este numero es primo ${numero}`);
 }
 })
-*/
+
 
 
 
